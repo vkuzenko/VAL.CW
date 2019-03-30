@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VAL.CW04_02_phone
+namespace VAL.CW04.Task02.Phone
 {
     public class Shop {
         public string Name { get; set; }

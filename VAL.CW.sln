@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAL.CW04_01_human", "VAL.CW04_01_human\VAL.CW04_01_human.csproj", "{3108E516-D6FF-4A6A-9EFC-139A2320C63C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAL.CW04.Task01.Human", "VAL.CW04.Task01.Human\VAL.CW04.Task01.Human.csproj", "{3108E516-D6FF-4A6A-9EFC-139A2320C63C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAL.CW04_02_phone", "VAL.CW04_02_phone\VAL.CW04_02_phone.csproj", "{0DA3607F-1BF8-448E-A3EC-FD123B0CE63E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VAL.CW04.Task02.Phone", "VAL.CW04.Task02.Phone\VAL.CW04.Task02.Phone.csproj", "{0DA3607F-1BF8-448E-A3EC-FD123B0CE63E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

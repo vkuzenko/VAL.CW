@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace VAL.CW04_01_human
+namespace VAL.CW04.Task01.Human
 {
 
     public class Human
